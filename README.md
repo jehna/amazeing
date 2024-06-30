@@ -1,3 +1,5 @@
+![Amazeing logo](logo.png)
+
 # Amazeing
 > A simple maze game for iPad
 
