@@ -1,0 +1,29 @@
+Button {
+  background-color: #FFFFFF;
+  border-radius: 5px;
+  width: 100px;
+  height: 100px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding-top: 10px;
+  scale: 0.7 0.7;
+}
+
+.smallbutton {
+  padding-top: 13px;
+}
+
+VisualElement {
+  background-color: #000000;
+  border-radius: 0;
+  flex-basis: 48%;
+  height: 48%;
+}
+
+.small {
+  flex-basis: 22%;
+  height: 22%;
+  border-radius: 0;
+  margin-bottom: 2px;
+}

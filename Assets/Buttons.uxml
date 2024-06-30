@@ -1,0 +1,27 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/Styles.uss?fileID=7433441132597879392&amp;guid=fc0082280c20d4724a760455e21fea77&amp;type=3#Styles" />
+    <ui:Button class="smallbutton" name="next-level">
+        <ui:VisualElement class="small" />
+        <ui:VisualElement class="small" />
+        <ui:VisualElement class="small" />
+        <ui:VisualElement class="small" />
+        <ui:VisualElement class="small" />
+        <ui:VisualElement class="small" />
+        <ui:VisualElement class="small" />
+        <ui:VisualElement class="small" />
+        <ui:VisualElement class="small" />
+        <ui:VisualElement class="small" />
+        <ui:VisualElement class="small" />
+        <ui:VisualElement class="small" />
+        <ui:VisualElement class="small" style="margin-bottom: 0;" />
+        <ui:VisualElement class="small" style="margin-bottom: 0;" />
+        <ui:VisualElement class="small" style="margin-bottom: 0;" />
+        <ui:VisualElement class="small" style="margin-bottom: 0;" />
+    </ui:Button>
+    <ui:Button name="previous-level">
+        <ui:VisualElement style="margin-bottom: 3px;" />
+        <ui:VisualElement />
+        <ui:VisualElement />
+        <ui:VisualElement />
+    </ui:Button>
+</ui:UXML>
