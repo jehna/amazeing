@@ -1,4 +1,4 @@
-![Amazeing logo](logo.png)
+<img alt="Amazeing logo" src="logo.png" width="200" />
 
 # Amazeing
 > A simple maze game for iPad
